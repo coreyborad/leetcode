@@ -1,4 +1,4 @@
-package leetcode
+package no0019
 
 import (
 	"github.com/halfrost/LeetCode-Go/structures"

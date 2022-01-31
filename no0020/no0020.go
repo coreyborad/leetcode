@@ -1,4 +1,4 @@
-package leetcode
+package no0020
 
 func isValid(s string) bool {
 	// (({(())}{}))
